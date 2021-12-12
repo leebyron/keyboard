@@ -2,12 +2,22 @@
 
 ![Keyboard layout](keeb.svg)
 
-* Keep hands on the home row, encouraging better typing practices. All keys are only one key away from the home row.
-* Ortholinear layout aligns with how fingers move, reducing errors.
-* Where possible, align to the existing apple keyboard layouts to reduce re-learning (for example, keep a Qwerty layout)
+**Why 4×12 Ortholinear?**
+
+* An ortholinear layout (e.g. a grid) aligns with how fingers move, reducing errors.
+* The 4×12 layout keeps hands on the home row, encouraging better typing practices. All keys are only one key away from the home row.
+
+**Design goals**
+
+* Where possible, align to the existing apple keyboard layouts to reduce re-learning (ie. use Qwerty and inverted-T arrows).
 * Bring keys to the hands instead of hands to the keys via *layer shifts*.
-* All keys are only one layer shift away (except function keys).
+* All keys are only one layer shift away (except function keys). For keys not on the base layer that typically have a shifted key (ie. a number key with a symbol above it) place the shifted key on the next higher layer.
 * Within a layer, keep the most used keys on the opposite hand from the shift key, enouraging two hand typing.
+
+**Links**
+
+* My board: [Boardsource Technik](https://boardsource.xyz/store/5ffb9b01edd0447f8023fdb2)
+* Firmware: [QMK](https://qmk.fm/)
 
 ### How do you read these keys?
 
