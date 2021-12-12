@@ -2,6 +2,8 @@
 
 ![Keyboard layout](keeb.svg)
 
+This layout needs a clever name. Ideas?
+
 **Why 4×12 Ortholinear?**
 
 * An ortholinear layout (e.g. a grid) aligns with how fingers move, reducing errors.
@@ -13,11 +15,13 @@
 * Bring keys to the hands instead of hands to the keys via *layer shifts*.
 * All keys are only one layer shift away (except function keys). For keys not on the base layer that typically have a shifted key (ie. a number key with a symbol above it) place the shifted key on the next higher layer.
 * Within a layer, keep the most used keys on the opposite hand from the shift key, enouraging two hand typing.
+* **Non-goal:** Improve typing speed. The goal of using a tiny keyboard is comfort and accuracy, rather than speed.
 
 **Links**
 
 * My board: [Boardsource Technik](https://boardsource.xyz/store/5ffb9b01edd0447f8023fdb2)
 * Firmware: [QMK](https://qmk.fm/)
+* Inspiration: [Modern Space Cadet](https://stevelosh.com/blog/2012/10/a-modern-space-cadet/)
 
 ### How do you read these keys?
 
